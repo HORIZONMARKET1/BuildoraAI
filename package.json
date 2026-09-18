@@ -1,7 +1,7 @@
-<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">{
+{
   "name": "buildora-bot",
   "version": "1.0.0",
-  "description": "Telegram-Р±РѕС‚ Buildora AI: РїСЂРёС‘Рј Р·Р°СЏРІРѕРє РЅР° СЂР°Р·СЂР°Р±РѕС‚РєСѓ СЃР°Р№С‚РѕРІ, С‡Р°С‚-Р±РѕС‚РѕРІ Рё РїСЂРёР»РѕР¶РµРЅРёР№",
+  "description": "Telegram-бот Buildora AI: приём заявок на разработку сайтов, чат-ботов и приложений",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
@@ -14,4 +14,3 @@
     "node-telegram-bot-api": "^0.66.0"
   }
 }
-</pre></body></html>
